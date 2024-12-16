@@ -1,6 +1,8 @@
 # Methods
 My fourth Java assignment for Programming 1 (COMP 1501) involving methods.
 
+![Java](java.webp)
+
 ## Problem Scenario: Electricity Billing
 
 The City of Utopia provides electricity to its residents and businesses. At the end of the month, they produce a utility bill to the different customers. This bill is calculated using the amount of usage and the type of customer.
